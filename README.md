@@ -1,1 +1,1 @@
-[text](https://www.codewars.com/users/bemyexe/badges/large)
+[https://www.codewars.com/users/bemyexe/badges/large]
